@@ -3,7 +3,7 @@
 
 - Email: tkdlxmaks@gmail.com
 - LinkedIn : https://www.linkedin.com/in/wonno/
-- Github : https://github.com/tkdlxmaks
+- Github : https://github.com/tkdlxmaks/resume
 
 ## 경력
 
